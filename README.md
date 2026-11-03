@@ -1,5 +1,10 @@
 # Detecting Malicious QR Codes Through URL and Structural Analysis
 
+
+**Live demo:** https://YOUR-APP-LINK.streamlit.app
+
+![Web app screenshot](results/app_screenshot.png)
+
 ## Problem
 QR codes hide the URL they contain, so people cannot judge a link before opening it.
 
