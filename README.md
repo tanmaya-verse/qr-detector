@@ -1,7 +1,7 @@
 # Detecting Malicious QR Codes Through URL and Structural Analysis
 
 
-**Live demo:** https://YOUR-APP-LINK.streamlit.app
+**Live demo:** https://qr-detector-2y5yzbwd4mucklkchye35e.streamlit.app/
 
 ![Web app screenshot](results/app_screenshot.png)
 
@@ -51,6 +51,7 @@ pip install -r requirements.txt
 python src/build_dataset.py
 python src/generate_qr.py
 python src/run_experiment.py
+streamlit run app.py
 
 ## Future Work
 Safe redirect expansion in a sandbox, domain-age features, testing on photographed QR codes.
