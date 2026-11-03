@@ -1,0 +1,7 @@
+opencv-python
+pyzbar
+pandas
+scikit-learn
+qrcode[pil]
+matplotlib
+tldextract
