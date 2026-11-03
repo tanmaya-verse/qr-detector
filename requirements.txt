@@ -5,3 +5,4 @@ scikit-learn
 qrcode[pil]
 matplotlib
 tldextract
+streamlit
